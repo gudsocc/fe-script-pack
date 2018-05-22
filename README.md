@@ -1,6 +1,6 @@
 # fe-script-pack
 
-Thanks for usign my FE Script Pack!
+Thanks for using my FE Script Pack!
 This is for ROBLOX.
 
 
